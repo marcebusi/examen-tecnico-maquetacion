@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+  color: #5E5E5E;
+  cursor: pointer;
+}
